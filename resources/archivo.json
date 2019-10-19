@@ -1,0 +1,74 @@
+[
+  {
+    "code": "002",
+    "name": "Pedro",
+    "last_name": "Pedraza",
+    "birth": {
+      "day": 18,
+      "month":6,
+      "year": 2019
+    },
+    "genre": "Masculino",
+    "town_origin": "Bogota",
+    "inst_email": "pedro.pedraza@uptc.edu.co",
+    "perso_email":"pedropedraza@gmail.com",
+    "cellphone":"31200022"
+  },
+  {
+    "code": "003",
+    "name": "Paula",
+    "last_name": "Perez",
+    "birth": "04-11-2019",
+    "genre": "Femenino",
+    "town_origin": "Cali",
+    "inst_email": "paula.perez@uptc.edu.co",
+    "perso_email":"paulaperez@gmail.com",
+    "cellphone":"3120233222"
+  },
+  {
+    "code": "004",
+    "name": "Anibal",
+    "last_name": "Camargo",
+    "birth": "22-04-2019",
+    "genre": "Masculino",
+    "town_origin": "Bogota",
+    "inst_email": "anibal.camargo@uptc.edu.co",
+    "perso_email":"anibalcamargo@gmail.com",
+    "cellphone":"31234422"
+  },
+  {
+    "code":"201320674",
+    "lastName": "Torres Diaz",
+    "name": "Horacio del Carmen",
+    "dateBirthday" : {
+      "day" : 28,
+      "month" : 6,
+      "year": 2001
+    },
+    "gender": true,
+    "city": "Corrales",
+    "email": {
+      "institutional":"horacio.torres@uptc.edu.co",
+      "personal" : "horacito123@yahoo.com"
+    },
+    "phones": ["3107658902","7754523","3005639081"]
+  },
+    {
+      "code":"201320674",
+      "lastName": "Torres Diaz",
+      "name": "Horacio del Carmen",
+      "dateBirthday" : {
+        "day" : 28,
+        "month" : 6,
+        "year": 2001
+      },
+      "gender": true,
+      "city": "Corrales",
+      "email": {
+        "institutional":"horacio.torres@uptc.edu.co",
+        "personal" : "horacito123@yahoo.com"
+      },
+      "phones": ["3107658902","7754523","3005639081"]
+    }
+
+]
